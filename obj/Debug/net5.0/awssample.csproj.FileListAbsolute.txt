@@ -1,0 +1,16 @@
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\awssample.exe
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\awssample.deps.json
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\awssample.runtimeconfig.json
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\awssample.runtimeconfig.dev.json
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\awssample.dll
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\ref\awssample.dll
+C:\Internal\Samples\AWS\awssample\bin\Debug\net5.0\awssample.pdb
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.csprojAssemblyReference.cache
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.AssemblyInfoInputs.cache
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.AssemblyInfo.cs
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.csproj.CoreCompileInputs.cache
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.dll
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\ref\awssample.dll
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.pdb
+C:\Internal\Samples\AWS\awssample\obj\Debug\net5.0\awssample.genruntimeconfig.cache
